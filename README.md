@@ -5,3 +5,5 @@ Information below is intended for information only this site will be a reference
 
 thanks to all who can contribute.
 
+heres the wiki and links
+https://github.com/cheynespc/Law/wiki
